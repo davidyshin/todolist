@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+    align-content: center;
+}
+
+h1 {
+    padding: 15px 25px 15px 25px;
+    position: relative;
+    text-align: center;
+    float: center;
+}
+
+div {
+    width: 50%;
+    position: relative;
+    left: 30%;
+    right: 30%;
+    align-content: center;
+    
+}
+
+button {
+    align-content: center;
+
+}
+#inputarea {
+    padding: 10px 10px 10px 10px;
+}
